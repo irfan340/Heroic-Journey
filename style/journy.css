@@ -141,7 +141,7 @@ nav li a {
     display: flex;
     justify-content: space-between;
     margin-top: 60px;
-    border: #FF5400 solid;
+    /* border: #FF5400 solid; */
 }
 
 .popular img {
@@ -156,7 +156,7 @@ nav li a {
         "box-3 box-4 box-4 box-5"
         "box-6 box-7 box-7 box-7";
     max-width: 100%;
-    border: tomato solid;
+    /* border: tomato solid; */
     margin-inline: auto;
     gap: 20px;
 }
@@ -209,7 +209,7 @@ nav li a {
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
-    border: red solid;
+    /* border: red solid; */
     text-align: center;
     padding-top: 50px;
     color: #FFF;
@@ -226,7 +226,7 @@ nav li a {
     /* justify-content: center; */
     text-align: center;
     align-items: center;
-    border: #FF5400 solid;
+    /* border: #FF5400 solid; */
 }
 
 .choose-us>* {
@@ -277,7 +277,7 @@ nav li a {
     justify-content: space-between;
     gap: 30px;
     margin-top: 70px;
-    border: #FF5400 solid;
+    /* border: #FF5400 solid; */
 }
 
 .perfect-place li {
@@ -303,17 +303,18 @@ nav li a {
 .discount {
     text-align: center;
     max-width: 78%;
-    border: tomato solid;
+    /* border: tomato solid; */
     margin-inline: auto;
 }
 
 .discount-img {
     background-image: url(../Images/Group\ 39.png);
     min-height: 500px;
+    border-radius: 8px;
 }
 
 .discount-1 {
-    border: tomato solid;
+    /* border: tomato solid; */
     border-radius: 16px;
     border: 2px solid #FFF;
     background: rgba(255, 255, 255, 0.80);
@@ -334,7 +335,7 @@ nav li a {
 
 /* newsletter style */
 .newsletter {
-    border: #FF5400 solid;
+    /* border: #FF5400 solid; */
     display: flex;
     justify-content: space-between;
 }
@@ -364,6 +365,7 @@ nav li a {
 
 .newsletter-img {
     width: 500px;
+    border-radius: 8px;
     height: 422px;
     /* background-size: ; */
     background-image: url("../Images/Rectangle\ 8\ \(1\).png");
@@ -371,7 +373,7 @@ nav li a {
 }
 
 .newsletter-img>div {
-    border: #FF5400 solid;
+    /* border: #FF5400 solid; */
     border-radius: 8px;
     background-color: #FF5400;
     max-width: 35%;
